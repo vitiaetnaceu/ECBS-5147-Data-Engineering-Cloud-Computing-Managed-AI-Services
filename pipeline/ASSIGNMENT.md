@@ -88,3 +88,7 @@ Ensure that all assets you submit check all the requirements above:
 5) Lambda function in place and checks all requirements above
 6) Lambda function deployed under the function name required and works both with and without passing a date parameter
 7) EventBridge created with the schedule name required
+
+Deadline: 21 Dec 2025, 23:59. Same terms apply as with the previous deadlines
+
+Submission URL on Moodle
